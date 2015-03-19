@@ -28,7 +28,7 @@ But there's an important challenge. As the new policy is set to go into effect, 
 
 *Another, this one a pyramid-shaped, to better visualize undocumented immigrant population by age*
 
-## Who Is Eligible for Executive Action? *RACHEL*
+## Who Is Eligible for Executive Action? 
 
 **(Another short paragraph explaining where they are and where they come from, with brief facts)** Bacon ipsum dolor amet officia prosciutto sint strip steak pariatur, irure labore aute laboris lorem. Aute doner dolor sint tail shank fugiat proident pancetta pig pariatur sirloin strip steak mollit ham. 
 
@@ -56,8 +56,6 @@ This isn't the first time a president has taken executive action on immigration.
 *The above shows undocumented workers in the workforce. If we find a number (of a reliable estimate), it will be a toggling pie chart, showing before and after the executive action takes effect.*
 
 ## Deportations of Latin American Immigrants
-
-Data: (https://www.dropbox.com/s/ejbpnl60epfnzak/deportationsbycountry.csv?dl=0) 
 
 **Last paragraph explaining that the executive order is trying to stop, or slow, our rate of deportations. To ilustrate:**
 
