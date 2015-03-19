@@ -9,14 +9,14 @@ In November 2014, U.S. President Barack Obama announced new executive action to 
 
 But there's an important challenge. As the new policy is set to go into effect, some Republican congressmen are trying to defund the new policy within the Department of Homeland Security budget. Plus, on February 16, a federal judge in Texas ordered a temporary halt to the new immigration policy. As this debate continues and as the government implements the new policy, it's important to look at who will ultimately benefit. 
 
-## How Many Latin American Immigrants Are Undocumented? -- *PEDRO*
+## How Many Latin American Immigrants Are Undocumented?
 
 ![Pictorial chart](http://placehold.it/350x150&text=Pictorial_chart)
 
 *First chart shows the percentage, illustrated, of Latin American immigrants by immigration status*
 
 
-## Undocumented Immigrants in the U.S.: Age and Arrival Year *PEDRO*
+## Undocumented Immigrants in the U.S.: Age and Arrival Year 
 
 **(Paragraph explaining who they are and how long they're here)** Bacon ipsum dolor amet officia prosciutto sint strip steak pariatur, irure labore aute laboris lorem. Aute doner dolor sint tail shank fugiat proident pancetta pig pariatur sirloin strip steak mollit ham. Tri-tip officia sirloin spare ribs. Short ribs occaecat pork chop est ullamco, pork belly reprehenderit ball tip sausage. 
 
@@ -57,7 +57,7 @@ This isn't the first time a president has taken executive action on immigration.
 
 ## Deportations of Latin American Immigrants
 
-Data: [Rachel](https://www.dropbox.com/s/ejbpnl60epfnzak/deportationsbycountry.csv?dl=0) - Map: Pedro
+Data: (https://www.dropbox.com/s/ejbpnl60epfnzak/deportationsbycountry.csv?dl=0) 
 
 **Last paragraph explaining that the executive order is trying to stop, or slow, our rate of deportations. To ilustrate:**
 
